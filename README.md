@@ -1,6 +1,12 @@
 # Unity GAS (Unity 6) (2025)
 Unity GAS is an updated version of the Unity Gameplay Ability System created by sjai013. While the system is fully usable, some tweaks and minor improvements need to be made. I provide those here. This is guaranteed to work in Unity 6 as that is the version I am using.
 
+## Package Installation
+To install the latest version of the package, import the package from a git URL using the `Unity Package Manager`:
+```
+https://github.com/sjai013/unity-gameplay-ability-system.git#upm
+```
+
 # BELOW IS THE DESCRIPTION FOR THE ORIGINAL BRANCH OF THIS SYSTEM
 
 # REPOSITORY NO LONGER IN DEVELOPMENT (OUTDATED)
