@@ -1,5 +1,5 @@
-# Unity GAS
-Unity GAS is an updated version of the Unity Gameplay Ability System created by sjai013. While the system is fully usable, some tweaks and minor improvements need to be made. I provide those here.
+# Unity GAS (Unity 6) (2025)
+Unity GAS is an updated version of the Unity Gameplay Ability System created by sjai013. While the system is fully usable, some tweaks and minor improvements need to be made. I provide those here. This is guaranteed to work in Unity 6 as that is the version I am using.
 
 # BELOW IS THE DESCRIPTION FOR THE ORIGINAL BRANCH OF THIS SYSTEM
 
