@@ -1,7 +1,7 @@
 # Unity GAS
 Unity GAS is an updated version of the Unity Gameplay Ability System created by sjai013. While the system is fully usable, some tweaks and minor improvements need to be made. I provide those here.
 
-#BELOW IS THE DESCRIPTION FOR THE ORIGINAL BRANCH OF THIS SYSTEM
+# BELOW IS THE DESCRIPTION FOR THE ORIGINAL BRANCH OF THIS SYSTEM
 
 # REPOSITORY NO LONGER IN DEVELOPMENT (OUTDATED)
 This repository has not been updated in some time, and I do not have time to spend on this.  As a result, I am archiving this repository.
