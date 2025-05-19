@@ -4,7 +4,7 @@ Unity GAS is an updated version of the Unity Gameplay Ability System created by 
 ## Package Installation
 To install the latest version of the package, import the package from a git URL using the `Unity Package Manager`:
 ```
-https://github.com/sjai013/unity-gameplay-ability-system.git#upm
+https://github.com/bama142/Unity-GAS.git#upm
 ```
 
 # BELOW IS THE DESCRIPTION FOR THE ORIGINAL BRANCH OF THIS SYSTEM
